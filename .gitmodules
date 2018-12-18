@@ -1,4 +1,4 @@
 [submodule "grove_drivers"]
 	path = grove_drivers
-	url = https://github.com/AMTechMX/Grove_Drivers_for_Wio
+	url = git@github.com:AMTechMX/Grove_Drivers_for_Wio
 	branch = master
